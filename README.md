@@ -10,3 +10,4 @@ sudo docker run \
     --volume=$HOME/neo4j/logs:/logs \
     --env NEO4J_AUTH=neo4j/password \
     neo4j:latest
+just for the test⚠️
